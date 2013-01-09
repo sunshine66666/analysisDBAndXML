@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEMPLATE>
+	<QUOTA>
+		<CPU><![CDATA[0]]></CPU>
+		<DISK><![CDATA[0]]></DISK>
+		<MEM><![CDATA[0]]></MEM>
+		<VCPU><![CDATA[0]]></VCPU>
+		<VMNUMS><![CDATA[0]]></VMNUMS>
+	</QUOTA>
+	<QUOTA_ENABLED><![CDATA[0]]></QUOTA_ENABLED>
+	<SNAPSHOT_PER_VM><![CDATA[5]]></SNAPSHOT_PER_VM>
+	<USERINFO>
+		<DEPARTMENT><![CDATA[null]]></DEPARTMENT>
+		<EMAIL><![CDATA[qwe@qwe.qwe]]></EMAIL>
+		<JOB><![CDATA[null]]></JOB>
+		<REALNAME><![CDATA[qwer1234]]></REALNAME>
+	</USERINFO>
+	<VM_INFO>
+		<CPU><![CDATA[0]]></CPU>
+		<DISK><![CDATA[0]]></DISK>
+		<MEM><![CDATA[0]]></MEM>
+		<VCPU><![CDATA[0]]></VCPU>
+		<VMNUMS><![CDATA[0]]></VMNUMS>
+	</VM_INFO>
+</TEMPLATE>
